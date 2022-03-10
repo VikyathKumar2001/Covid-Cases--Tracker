@@ -1,2 +1,0 @@
-# Covid-Cases--Tracker
-kfw
